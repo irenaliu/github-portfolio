@@ -34,6 +34,12 @@ a:hover {
   }
 }
 
+.profession {
+  font-size: $mid-font-size;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
 .dark-blue-text {
   color: $dark-blue-text !important;
 }
